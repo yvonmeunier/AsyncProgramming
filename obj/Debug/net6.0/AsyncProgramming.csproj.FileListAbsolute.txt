@@ -1,0 +1,15 @@
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.csproj.AssemblyReference.cache
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.AssemblyInfoInputs.cache
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.AssemblyInfo.cs
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.exe
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.deps.json
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.runtimeconfig.json
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.dll
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\ref\AsyncProgramming.dll
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.pdb
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.dll
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\ref\AsyncProgramming.dll
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.pdb
+C:\Users\1980395\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.genruntimeconfig.cache
