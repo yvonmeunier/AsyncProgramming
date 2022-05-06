@@ -14,7 +14,7 @@ public class JokeClient
     const string url = "https://v2.jokeapi.dev/joke/Any?type=twopar";
 
 
-    public async Task<Joke> GetRandomJoke()
+    public async Task<Joke?> GetRandomJoke()
     {
 
         // TODO :
@@ -30,3 +30,4 @@ public class JokeClient
     }
 
 }
+
